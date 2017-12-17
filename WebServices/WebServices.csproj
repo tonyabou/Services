@@ -76,6 +76,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="HtmlPage1.html" />
+    <Content Include="newfile.txt" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
