@@ -75,6 +75,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="file2.css" />
     <Content Include="HtmlPage1.html" />
     <Content Include="newfile.txt" />
     <Content Include="Web.config" />
